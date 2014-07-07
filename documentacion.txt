@@ -1,0 +1,6 @@
+To install the Microsoft ACE OLEDB Provider 32-bit on a machine running Office 2010 64-bit:
+ Collapse | Copy Code
+$> AccessDatabaseEngine.exe /passive
+To install the Microsoft ACE OLEDB Provider 64-bit on a machine running Office 2010 32-bit:
+ Collapse | Copy Code
+$> AccessDatabaseEngine_X64.exe /passive

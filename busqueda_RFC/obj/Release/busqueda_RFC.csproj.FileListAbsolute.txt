@@ -1,0 +1,16 @@
+C:\Users\AUXSOPORTE\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\obj\Release\busqueda_RFC.facturas.resources
+C:\Users\AUXSOPORTE\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\obj\Release\busqueda_RFC.Properties.Resources.resources
+C:\Users\AUXSOPORTE\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\obj\Release\busqueda_RFC.csproj.GenerateResource.Cache
+C:\Users\AUXSOPORTE\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\bin\Release\Modulo Verificador.exe.config
+C:\Users\AUXSOPORTE\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\bin\Release\Modulo Verificador.exe
+C:\Users\AUXSOPORTE\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\bin\Release\Modulo Verificador.pdb
+C:\Users\AUXSOPORTE\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\obj\Release\Modulo Verificador.exe
+C:\Users\AUXSOPORTE\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\obj\Release\Modulo Verificador.pdb
+C:\Users\AUXSOPORTE\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\obj\Release\busqueda_RFC.busqueda.resources
+C:\Users\AUXSOPORTE\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\obj\Release\busqueda_RFC.inicio.resources
+C:\Users\AUXSOPORTE\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\obj\Release\busqueda_RFC.pendientes.resources
+C:\Users\AUXSOPORTE\Documents\Visual Studio 2013\Projects\busqueda_RFC\busqueda_RFC\bin\Release\Modulo Verificador.exe.manifest
+C:\Users\AUXSOPORTE\Documents\Visual Studio 2013\Projects\busqueda_RFC\busqueda_RFC\bin\Release\Modulo Verificador.application
+C:\Users\AUXSOPORTE\Documents\Visual Studio 2013\Projects\busqueda_RFC\busqueda_RFC\obj\Release\Modulo Verificador.exe.manifest
+C:\Users\AUXSOPORTE\Documents\Visual Studio 2013\Projects\busqueda_RFC\busqueda_RFC\obj\Release\Modulo Verificador.application
+C:\Users\AUXSOPORTE\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\obj\Release\busqueda_RFC.csprojResolveAssemblyReference.cache

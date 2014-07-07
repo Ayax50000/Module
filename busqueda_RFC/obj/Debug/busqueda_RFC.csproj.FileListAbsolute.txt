@@ -1,0 +1,16 @@
+c:\users\auxsoporte\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\obj\Debug\busqueda_RFC.csprojResolveAssemblyReference.cache
+c:\users\auxsoporte\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\obj\Debug\busqueda_RFC.Properties.Resources.resources
+c:\users\auxsoporte\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\obj\Debug\busqueda_RFC.csproj.GenerateResource.Cache
+C:\Users\AUXSOPORTE\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\obj\Debug\busqueda_RFC.facturas.resources
+C:\Users\AUXSOPORTE\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\bin\Debug\Modulo Verificador.exe.config
+C:\Users\AUXSOPORTE\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\bin\Debug\Modulo Verificador.exe
+C:\Users\AUXSOPORTE\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\bin\Debug\Modulo Verificador.pdb
+C:\Users\AUXSOPORTE\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\obj\Debug\busqueda_RFC.busqueda.resources
+C:\Users\AUXSOPORTE\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\obj\Debug\busqueda_RFC.inicio.resources
+C:\Users\AUXSOPORTE\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\obj\Debug\Modulo Verificador.exe
+C:\Users\AUXSOPORTE\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\obj\Debug\Modulo Verificador.pdb
+C:\Users\AUXSOPORTE\documents\visual studio 2013\Projects\busqueda_RFC\busqueda_RFC\obj\Debug\busqueda_RFC.pendientes.resources
+C:\Users\AUXSOPORTE\Documents\Visual Studio 2013\Projects\busqueda_RFC\busqueda_RFC\bin\Debug\Modulo Verificador.exe.manifest
+C:\Users\AUXSOPORTE\Documents\Visual Studio 2013\Projects\busqueda_RFC\busqueda_RFC\bin\Debug\Modulo Verificador.application
+C:\Users\AUXSOPORTE\Documents\Visual Studio 2013\Projects\busqueda_RFC\busqueda_RFC\obj\Debug\Modulo Verificador.exe.manifest
+C:\Users\AUXSOPORTE\Documents\Visual Studio 2013\Projects\busqueda_RFC\busqueda_RFC\obj\Debug\Modulo Verificador.application
